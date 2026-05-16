@@ -27,8 +27,8 @@
 		"afterPeace": "Perfect, prepare for the next war, we will be back stronger.",
 		"tradeRequest": "We have this trade offer for you.",
 
-		"outerColor": [151, 26, 62],
-		"innerColor": [0,0,0],
+		"outerColor": [161, 48, 81],
+		"innerColor": [1,1,1],
 		"uniqueName": "Lust",
 		"uniques": ["[-25]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory", "[+3 Culture] [in all cities]", "[-40]% Strength", "[+1] Movement"],
 		"cities": ["Lust Capitol","Dryadia","Nymphotopia","Red City","Sextopia","Squirtonia","Lustopia","Ravage","Lustee",
